@@ -1,35 +1,43 @@
-<div align="center">
+# Bradi Carcasona
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bradi%20Carcasona&fontSize=42&animation=fadeIn&fontAlignY=38" />
+```python
+class Bradi(Developer):
+    location  = "Bayawan City, Negros Oriental, PH"
+    studying  = "BS Information Technology @ NORSU (2023 – present)"
+    focus     = ["backend", "databases", "REST APIs"]
+    building  = "a Django clinic management platform"
+    reachable = "bradicarcasona16@gmail.com"
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bradi+%F0%9F%91%8B;Django+Developer;Building+a+clinic+management+platform;Always+learning+something+new" alt="Typing SVG" />
-</a>
+    def approach(self):
+        return "ship it, then make it clean"
+```
 
-</div>
+---
 
-## What I'm working on
-- A multi-app Django platform for clinic management
-- Web systems with Django, Spring Boot, JavaScript, and PHP
+### Selected work
 
-## Tech stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+| Project | Year | Stack | What it does |
+|:--|:--|:--|:--|
+| **Clinic Patient Recorder** | 2026 | Django · MySQL | Patient records, consultations, prescriptions, certificates, inventory, and reports, with role-based workflows for patients, nurses, doctors, front desk, and admins |
+| [**Cebu Mini Hotel Reservation**](https://github.com/usrss/Cebu_Mini_Hotel_Reservation_System) | 2026 | Django · React · Vite · PostgreSQL | Full-stack booking platform with a REST backend, Cloudinary media, deployed on Vercel and Render |
+| **Student Booking Consultation** | 2025 | PHP | Student and adviser consultation scheduling with email OTP, class-code enrollment, and approve/reject/reschedule flow |
+| [**ResourceHub**](https://github.com/usrss/Resourcehub) | 2025 | JavaScript | Marketplace for equipment, facilities, and services with listings, search, bookings, ratings, and admin tools |
 
-## My contribution snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usrss/usrss/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/usrss/usrss/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </picture>
-</div>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+### Toolbox
+
+```yaml
+daily:    Python, Django, MySQL, PostgreSQL, REST APIs, Git, Docker, HTML/CSS
+familiar: JavaScript, React, Node.js, PHP, Java, Spring Boot, Postman
+```
+
+---
+
+### Currently
+
+- Hardening and extending the clinic platform
+- Getting deeper into Docker and deployment
+- Coursework: Data Structures & Algorithms, Database Systems, Web Development
+
+<sub>Open to internships and collaboration. Email is the fastest way to reach me.</sub>
