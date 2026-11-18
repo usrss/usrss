@@ -1,4 +1,4 @@
-# Bradi Carcasona
+<img src="assets/header.svg" alt="Bradi Carcasona, backend developer" width="100%" />
 
 ```python
 class Bradi(Developer):
@@ -12,7 +12,7 @@ class Bradi(Developer):
         return "ship it, then make it clean"
 ```
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ### Selected work
 
@@ -23,7 +23,7 @@ class Bradi(Developer):
 | **Student Booking Consultation** | 2025 | PHP | Student and adviser consultation scheduling with email OTP, class-code enrollment, and approve/reject/reschedule flow |
 | [**ResourceHub**](https://github.com/usrss/Resourcehub) | 2025 | JavaScript | Marketplace for equipment, facilities, and services with listings, search, bookings, ratings, and admin tools |
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ### Toolbox
 
@@ -32,7 +32,7 @@ daily:    Python, Django, MySQL, PostgreSQL, REST APIs, Git, Docker, HTML/CSS
 familiar: JavaScript, React, Node.js, PHP, Java, Spring Boot, Postman
 ```
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ### Currently
 
