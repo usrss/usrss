@@ -14,7 +14,7 @@ class Bradi(Developer):
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### Selected work
+## ~/work
 
 | Project | Year | Stack | What it does |
 |:--|:--|:--|:--|
@@ -25,19 +25,16 @@ class Bradi(Developer):
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### Toolbox
+## ~/toolbox
 
-```yaml
-daily:    Python, Django, MySQL, PostgreSQL, REST APIs, Git, Docker, HTML/CSS
-familiar: JavaScript, React, Node.js, PHP, Java, Spring Boot, Postman
-```
+<img src="assets/skills.svg" alt="Python, Django, MySQL, PostgreSQL, REST APIs, Git, Docker, HTML/CSS, JavaScript, React, Node.js, PHP, Java, Spring Boot, Postman" width="100%" />
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-### Currently
+## ~/now
 
 - Hardening and extending the clinic platform
 - Getting deeper into Docker and deployment
 - Coursework: Data Structures & Algorithms, Database Systems, Web Development
 
-<sub>Open to internships and collaboration. Email is the fastest way to reach me.</sub>
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
